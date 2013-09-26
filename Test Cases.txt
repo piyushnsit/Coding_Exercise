@@ -1,0 +1,20 @@
+Test Case: 1
+Incorrect filename or Path
+
+Expected Result:
+Program will display message that File not found
+
+
+Test Case: 2
+Some of the rows, has less values than expected
+
+Expected Result:
+Program is coded to add data to collection with $0 as share value for missing companies and process result accordingly
+
+
+
+Test Case: 3
+Correct file provided
+
+Expected Result:
+Each company is listed with its highest stock price along with month & year
